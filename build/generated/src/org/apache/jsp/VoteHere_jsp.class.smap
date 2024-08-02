@@ -1,0 +1,26 @@
+SMAP
+VoteHere_jsp.java
+JSP
+*S JSP
+*F
++ 0 VoteHere.jsp
+VoteHere.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5:50
+5#1,11:51
+16,4:63
+19,4:67
+6#0,13:70
+19,5:84
+23,66:89
+90,19:157
+108:176
+109:177,11
+110,3:188
+113,9:192
+121,4:201
+125,11:206
+135,15:217
+*E

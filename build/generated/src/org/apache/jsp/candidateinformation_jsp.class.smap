@@ -1,0 +1,25 @@
+SMAP
+candidateinformation_jsp.java
+JSP
+*S JSP
+*F
++ 0 candidateinformation.jsp
+candidateinformation.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5,4:56
+5#1,11:59
+16,4:71
+19,4:75
+8#0,88:78
+97,35:168
+131,4:203
+135,3:207,3
+138:216
+139,4:217,3
+143:229
+144:230,3
+145,6:233
+150,13:239
+*E

@@ -1,0 +1,16 @@
+SMAP
+thanks_jsp.java
+JSP
+*S JSP
+*F
++ 0 thanks.jsp
+thanks.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5:50
+5#1,11:51
+16,4:63
+19,4:67
+6#0,25:70
+*E

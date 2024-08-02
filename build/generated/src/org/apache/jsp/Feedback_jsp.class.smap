@@ -1,0 +1,20 @@
+SMAP
+Feedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 Feedback.jsp
+Feedback.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5:50
+5#1,11:51
+16,4:63
+19,4:67
+6#0,112:70
+121,13:186
+133,45:199
+178,17:245
+194,8:262
+*E
